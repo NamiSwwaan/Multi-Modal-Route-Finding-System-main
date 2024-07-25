@@ -21,7 +21,7 @@ The Combined Route Finder allows users to find routes between locations using te
 
 ## Installation
 
-1. Clone the repository:git clone https://github.com/Rushi1508/Multi-Modal-Route-Finding-System.git
+1. Clone the repository:git clone https://github.com/NamiSwwaan/Multi-Modal-Route-Finding-System.git
 
 ## Requirements
 
